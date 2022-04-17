@@ -1,0 +1,28 @@
+asgiref==3.5.0
+beautifulsoup4==4.10.0
+certifi==2021.5.30
+charset-normalizer==2.0.6
+click==8.0.3
+colorama==0.4.4
+comtypes==1.1.10
+-e git+https://github.com/django/django.git@25514b604a64686ba603bf10a8a63390dc38b79d#egg=Django
+django-filter==21.1
+Flask==2.0.2
+idna==3.2
+itsdangerous==2.0.1
+Jinja2==3.0.2
+MarkupSafe==2.0.1
+myapp==0.1.dev0
+Pillow==9.0.1
+PyAudio @ file:///C:/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+pypiwin32==223
+pyttsx3==2.90
+pywin32==301
+requests==2.26.0
+soupsieve==2.2.1
+SpeechRecognition==3.8.1
+sqlparse==0.4.2
+tzdata==2021.5
+urllib3==1.26.7
+Werkzeug==2.0.2
+wikipedia==1.4.0
